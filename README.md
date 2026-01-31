@@ -1,1 +1,2 @@
 # student-ID-and-credential-validator
+This project is created as part of the Python Code2Xplore – 60 Days Challenge (Day-2) by the Department of Computer Science and Engineering, SRM University–AP. It is a Smart ID & Credential Validator built using only basic Python strings and conditional statements. The program validates the Student ID, Email ID, Password, and Referral Code, and the order of validation is decided by the last digit of the register number (even → ID first, odd → password first). If all rules are satisfied, it prints APPROVED; otherwise, REJECTED.
